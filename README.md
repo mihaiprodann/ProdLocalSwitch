@@ -1,1 +1,1 @@
-#ProdLocalSwitch chrome extension
+# ProdLocalSwitch
