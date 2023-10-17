@@ -1,0 +1,14 @@
+{
+    "name": "ProdLocalSwitch - Fast switch between production and local",
+    "version": "1.0.0",
+    "description": "Chrome extension that allows you to quickly switch between production and local environments",
+    "manifest_version": 3,
+    "author": "Mihai Prodan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "ProdLocalSwitch"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
